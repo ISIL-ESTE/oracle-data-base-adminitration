@@ -4,9 +4,13 @@ C:\app\Khalid\product\21c\admin\XE\pfile\init.ora.10142022163950
 ------- Atelier N° 1 ----------
 4 )
 
+
+```
 SQL> create spfile='C:\app\Khalid\product\21c\admin\XE\pfile\isil.ora' from pfile='C:\app\Khalid\product\21c\admin\XE\pfile\init.ora.10142022163950';
 
 File created.
+
+```
 
 SQL> disconnect
 Disconnected from Oracle Database 21c Express Edition Release 21.0.0.0.0 - Production
